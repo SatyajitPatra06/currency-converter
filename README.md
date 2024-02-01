@@ -1,5 +1,4 @@
 # This is a currency converter 
-    It can convert any currency with the right current live conversion rate using a api call,
-    here I have also used
-    - Custom hooks
-    ![screenshot](images/screenshot.jpg)
+ It can convert any currency with the right current live conversion rate using an api call, here I have also used
+ - custom hooks
+ ![screenshot](images/screenshot.jpg)
